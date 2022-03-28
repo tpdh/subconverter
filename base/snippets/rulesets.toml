@@ -8,14 +8,6 @@ ruleset = "rules/ACL4SSR/Clash/BanEasyList.list"
 
 [[rulesets]]
 group = "REJECT"
-ruleset = "rules/ACL4SSR/Clash/BanEasyListChina.list"
-
-[[rulesets]]
-group = "REJECT"
-ruleset = "rules/ACL4SSR/Clash/BanEasyPrivacy.list"
-
-[[rulesets]]
-group = "REJECT"
 ruleset = "rules/ACL4SSR/Clash/BanProgramAD.list"
 
 [[rulesets]]
@@ -29,14 +21,6 @@ ruleset = "rules/ACL4SSR/Clash/ChinaDomain.list"
 [[rulesets]]
 group = "DIRECT"
 ruleset = "rules/ACL4SSR/Clash/LocalAreaNetwork.list"
-
-[[rulesets]]
-group = "DIRECT"
-ruleset = "rules/ACL4SSR/Clash/GoogleCN.list"
-
-[[rulesets]]
-group = "DIRECT"
-ruleset = "[]GEOIP,CN"
 
 [[rulesets]]
 group = "🔰 节点选择"
